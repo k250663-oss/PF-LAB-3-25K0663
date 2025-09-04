@@ -3,6 +3,6 @@ My name is **Mohaddisa**, pursuing bachelors in computer science from Fast-Nuces
 </br>
 I have a coding proficiency in html, python ,c++.
 </br>
--A
--B
--C
+- unordered A
+- unordered B
+- unordered C
