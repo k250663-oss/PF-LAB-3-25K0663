@@ -4,5 +4,5 @@ My name is **Mohaddisa**, pursuing bachelors in computer science from Fast-Nuces
 I have a coding proficiency in html, python ,c++.
 </br>
 -  A
-- unordered B
-- unordered C
+-  B
+-  C
