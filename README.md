@@ -2,7 +2,7 @@
 My name is **Mohaddisa**, pursuing bachelors in computer science from Fast-Nuces .
 </br>
 I have a coding proficiency in html, python ,c++.
--unordered list 
--**bold**
--_italic_
 
+-A
+-B
+-C
